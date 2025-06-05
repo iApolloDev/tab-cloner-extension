@@ -1,6 +1,6 @@
 # Tab Cloner in Window
 
-An extension for Chromium-based browsers (like Google Chrome, Brave, Edge). When activated via keyboard shortcut (default: `Ctrl+Shift+[`), it clones the current tab and opens it in a **new separate window**.
+An extension for Chromium-based browsers (like Google Chrome, Brave, Edge). When activated via keyboard shortcut (default: `Ctrl+Shift+0`), it clones the current tab and opens it in a **new separate window**.
 
 ## 🧩 Features
 - Clone the active tab into a new window
@@ -22,7 +22,7 @@ An extension for Chromium-based browsers (like Google Chrome, Brave, Edge). When
 5. Select the folder with the extension files
 
 ## ⌨️ Shortcut
-- Default: `Ctrl + Shift + [`
+- Default: `Ctrl + Shift + 0`
 - Changeable at: `chrome://extensions/shortcuts`
 
 ## 📁 Files
