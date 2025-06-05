@@ -57,7 +57,7 @@ MIT — feel free to use, modify, and share.
 
 ## 💡 Want `Ctrl + Enter` like in Firefox?
 
-You can simulate it with a **custom system shortcut** using autokey(https://github.com/autokey/autokey) or `[ydotoold](https://github.com/ReimuNotMoe/ydotool).
+You can simulate it with a **custom system shortcut** using [autokey](https://github.com/autokey/autokey) or [ydotoold](https://github.com/ReimuNotMoe/ydotool).
 
 1. Create a script with `ydotool` to simulate `Ctrl + Shift + 0`. Example:
     ```bash
