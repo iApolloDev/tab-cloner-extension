@@ -76,7 +76,7 @@ Done! Now when you press `Ctrl + Enter`, the system will simulate `Ctrl + Shift 
 ---
 
 # Feedback is welcome!
-I'm not a developer ~~(yet)~, I made this extension just to solve a personal need.
+I'm not a developer ~~(yet)~~, I made this extension just to solve a personal need.
 I like Chromium, but missed this simple Firefox feature.
 
 
