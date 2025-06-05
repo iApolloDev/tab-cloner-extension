@@ -40,7 +40,7 @@ MIT — feel free to use, modify, and share.
 
 > ⚠️ Note: Chromium does **not** allow `Ctrl + Enter` as a shortcut like Firefox does. This extension exists because Chromium lacks that feature.  
 >  
-> This extension is perfect for use with the **Gnome Extension PaperWM + Web Apps**.  
+> This extension is perfect for use with the **Gnome Extension [PaperWM](https://github.com/paperwm/PaperWM) + Web Apps**.  
 > On Firefox, pressing `Ctrl + Enter` already opens the tab in a new window, making it ideal for placing windows side by side using PaperWM.  
 > Chromium lacks this option — so I built this extension.  
 >  
@@ -51,6 +51,6 @@ MIT — feel free to use, modify, and share.
 > - `Ctrl + Shift + N`: new incognito window  
 > - Right-click tab → "Move tab to new window" (manual)  
 >  
-> 💡 **Perfect for ChatGPT users**: easily create multiple new chats side by side using Web Apps + PaperWM.
+> 💡 **Perfect for ChatGPT users**: easily create multiple new chats side by side using Web Apps + [PaperWM](https://github.com/paperwm/PaperWM).
 
 
