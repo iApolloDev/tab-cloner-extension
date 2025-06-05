@@ -23,7 +23,7 @@ An extension for Chromium-based browsers (like Google Chrome, Brave, Edge). When
 
 ## ⌨️ Shortcut
 - Default: `Ctrl + Shift + 0`
-- Changeable at: `chrome://extensions/shortcuts`
+- Changeable at: `manifest.json`
 
 ## 📁 Files
 - `manifest.json`: extension config file
@@ -38,4 +38,8 @@ MIT — feel free to use, modify, and share.
 
 ---
 
-> ⚠️ Note: Chromium does **not** allow `Ctrl + Enter` as a shortcut like Firefox does. This extension exists because Chromium lacks that feature.
+> ⚠️ Note: Chromium does **not** allow `Ctrl + Enter` as a shortcut like Firefox does. This extension exists because Chromium lacks that feature.  
+>  
+> This extension is perfect for use with the **Gnome Extension PaperWM + Web Apps**.  
+> On Firefox, pressing `Ctrl + Enter` already opens the tab in a new window, making it ideal for placing windows side by side using PaperWM.  
+> Chromium lacks this option — so I built this extension.
