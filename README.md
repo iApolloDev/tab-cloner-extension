@@ -49,5 +49,8 @@ MIT — feel free to use, modify, and share.
 > What it does offer:
 > - `Ctrl + N`: new empty window  
 > - `Ctrl + Shift + N`: new incognito window  
-> - Right-click tab → "Move tab to new window" (manual)
+> - Right-click tab → "Move tab to new window" (manual)  
+>  
+> 💡 **Perfect for ChatGPT users**: easily create multiple new chats side by side using Web Apps + PaperWM.
+
 
