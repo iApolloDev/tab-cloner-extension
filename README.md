@@ -73,5 +73,10 @@ You can simulate it with a **custom system shortcut** using [autokey](https://gi
 
 Done! Now when you press `Ctrl + Enter`, the system will simulate `Ctrl + Shift + 0` — opening the current tab in a new window in chromium, just like Firefox.
 
+---
+
+# Feedback is welcome!
+I'm not a developer ~(yet), I made this extension just to solve a personal need.
+I like Chromium, but missed this simple Firefox feature.
 
 
