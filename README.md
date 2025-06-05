@@ -42,4 +42,12 @@ MIT — feel free to use, modify, and share.
 >  
 > This extension is perfect for use with the **Gnome Extension PaperWM + Web Apps**.  
 > On Firefox, pressing `Ctrl + Enter` already opens the tab in a new window, making it ideal for placing windows side by side using PaperWM.  
-> Chromium lacks this option — so I built this extension.
+> Chromium lacks this option — so I built this extension.  
+>  
+> The Chromium browser does **not natively offer** a keyboard shortcut to clone the current tab into a new window.
+>
+> What it does offer:
+> - `Ctrl + N`: new empty window  
+> - `Ctrl + Shift + N`: new incognito window  
+> - Right-click tab → "Move tab to new window" (manual)
+
