@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Cloner in Window",
+  "version": "1.1",
+  "description": "Clona a aba atual em uma nova janela via atalho",
+  "permissions": [
+    "tabs",
+    "windows"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "clone-tab-in-window": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+0"
+      },
+      "description": "Clonar aba atual em nova janela"
+    }
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+}
+
+
