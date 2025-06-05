@@ -71,7 +71,7 @@ You can simulate it with a **custom system shortcut** using [autokey](https://gi
 
 4. Make sure `ydotoold` runs on system startup (add it to your startup applications).
 
-Done! Now when you press `Ctrl + Enter`, the system will simulate `Ctrl + Shift + 0` — opening the current tab in a new window, just like Firefox.
+Done! Now when you press `Ctrl + Enter`, the system will simulate `Ctrl + Shift + 0` — opening the current tab in a new window in chromium, just like Firefox.
 
 
 
