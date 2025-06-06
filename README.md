@@ -2,6 +2,13 @@
 
 An extension for Chromium-based browsers (like Google Chrome, Brave, Edge). When activated via keyboard shortcut (default: `Ctrl+Shift+0`), it clones the current tab and opens it in a **new separate window**.
 
+---
+
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![JavaScript](https://img.shields.io/badge/javascript-ES6+-yellow)
+
+
+
 ## 🧩 Features
 - Clone the active tab into a new window  
 - Customizable keyboard shortcut  
